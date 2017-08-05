@@ -1,0 +1,6 @@
+D:\Documents\DEV\Games\Monogame\CirclesApplication\CirclesApplication\obj\Debug\CirclesApplication.csprojResolveAssemblyReference.cache
+D:\Documents\DEV\Games\Monogame\CirclesApplication\CirclesApplication\bin\Debug\CirclesApplication.exe.config
+D:\Documents\DEV\Games\Monogame\CirclesApplication\CirclesApplication\bin\Debug\CirclesApplication.exe
+D:\Documents\DEV\Games\Monogame\CirclesApplication\CirclesApplication\bin\Debug\CirclesApplication.pdb
+D:\Documents\DEV\Games\Monogame\CirclesApplication\CirclesApplication\obj\Debug\CirclesApplication.exe
+D:\Documents\DEV\Games\Monogame\CirclesApplication\CirclesApplication\obj\Debug\CirclesApplication.pdb
